@@ -12,7 +12,9 @@ https://support.nordvpn.com/Connectivity/Linux/1325531132/Installing-and-using-N
 
 ### Create a .env file that contain the following values:
 IP= The ip that you want to test/attack.
+
 sshTreshold= The number of attempt before Fail2ban bans the IP.
+
 nbOfIpThreshold= The number of IP you want Fail2ban to ban.
 
 ### Start the program:
