@@ -18,4 +18,4 @@ sshTreshold= The number of attempt before Fail2ban bans the IP.
 nbOfIpThreshold= The number of IP you want Fail2ban to ban.
 
 ### Start the program:
-npm start
+node tester.js
